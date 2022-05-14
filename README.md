@@ -1,7 +1,7 @@
 # SlimeVr-PCB
 My pcb for easy soldering
 
-U5 - switch </br>
+U5 - switch pads </br>
 R3 - Battery resistor </br>
 P1 - Battery connector bottom one is  battery negative </br>
 
